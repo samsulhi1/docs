@@ -24,7 +24,7 @@ topics:
 | ------------------- | -------- | --------------- | ----- |
 | Codespaces Compute  |  2 core  | 1 hour          | $0.18 |
 |                     |  4 core  | 1 hour          | $0.36 |
-|                     |  8 core  | 1 hour          | $0.72 |
+|                 jual    |  8 core  | 1 hour          | $0.72 |
 |                     |  16 core | 1 hour          | $1.44 |
 |                     |  32 core | 1 hour          | $2.88 |
 | Codespaces Storage  |  Storage | 1 GB-month      | $0.07 |
